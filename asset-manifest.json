@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FITA/static/css/main.c14356dd.css",
+    "main.js": "/FITA/static/js/main.6b3d9427.js",
+    "index.html": "/FITA/index.html",
+    "main.c14356dd.css.map": "/FITA/static/css/main.c14356dd.css.map",
+    "main.6b3d9427.js.map": "/FITA/static/js/main.6b3d9427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14356dd.css",
+    "static/js/main.6b3d9427.js"
+  ]
+}
